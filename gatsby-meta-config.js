@@ -2,7 +2,7 @@ module.exports = {
   title: `eeeeeda.github.io`,
   description: ``,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: ``,
+  siteUrl: `https://eeeeeda.github.io/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
